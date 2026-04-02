@@ -83,7 +83,7 @@ This framework is designed not as a finished product, but as a foundational prot
 How to Cite / 引用说明
 
 To cite the book (the primary source): / 引用本书（主要来源）：
-Author. (2026). The War of Guardians: Wealth, Power, and the Future of Nations. Publisher.
+谢锋. (2026). The War of Guardians: Wealth, Power, and the Future of Nations. Publisher.
 
 To cite this software/code repository: / 引用本软件/代码仓库：
 NRS-Research. (2026). NRS-Framework (Version 1.0.0) [Computer software]. https://github.com/NRS-Research/NRS-Framework
