@@ -1,0 +1,20 @@
+字段名,说明
+year,年份
+country_code,国家三位字母代码 (ISO 3166-1 alpha-3)
+country_name,国家全称 (英文)
+country_category,国家分类: 超级大国/发达经济体/新兴大国/新兴经济体/地缘关键国
+ssi,"主权强度指数 (0-100, 分值越高主权韧性越强)"
+ssi_m,SSI军事支柱分项指数
+ssi_d,SSI外交支柱分项指数
+ssi_i,SSI制度支柱分项指数
+ssi_r,SSI资源支柱分项指数
+hg,"财富守护熵 (0-1, 分值越高系统混乱与风险越大)"
+hg_geopolitical,地缘政治风险熵
+hg_economic,经济金融脆弱性熵
+hg_social,社会内部张力熵
+hg_external,外部胁迫与依赖熵
+hg_nontraditional,非传统安全挑战熵
+w,"国家韧性盈余 (无固定范围, 可正可负)"
+w_trend,W的趋势项 (HP滤波提取)
+w_prime,"W的一阶导数 (反映盈余瞬时变化率, ""国力实时心电图"")"
+w_double_prime,"W的二阶导数 (反映变化率的加速度, ""国运动能预警雷达"")"
