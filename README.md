@@ -74,11 +74,11 @@ This framework is designed not as a finished product, but as a foundational prot
 
 本框架并非一个成品，而是为全球社区设计的基础协议。我们邀请您来审查、挑战并改进它。
 
-•   Start a Discussion: Have a question about the methodology, a suggestion for a new indicator, or a theoretical critique? Open an https://github.com/NRS-Research/NRS-Framework/issues using the discussion label. / 发起讨论：对方法论有疑问、有新指标建议或理论批判？请使用 discussion 标签开启一个https://github.com/NRS-Research/NRS-Framework/issues。
+•   Start a Discussion: Have a question about the methodology, a suggestion for a new indicator, or a theoretical critique? Open an https://github.com/NRS-Research/NRS-Framework/issues using the discussion label. / 发起讨论：对方法论有疑问、有新指标建议或理论批判？请使用 discussion 标签开启一个https://github.com/NRS-Research/NRS-Framework/issues
 
 •   Contribute Code or Analysis: Improved a calculation function, added a new country module, or conducted a novel case study? Please read our CONTRIBUTING.md guide and submit a Pull Request. / 贡献代码或分析：改进了计算函数、增加了新国家模块或进行了新颖的案例研究？请阅读我们的CONTRIBUTING.md指南并提交拉取请求。
 
-•   Report Bugs: Found an error in data or code? Open an https://github.com/NRS-Research/NRS-Framework/issues with the bug label. / 报告错误：发现数据或代码错误？请使用 bug 标签开启一个https://github.com/NRS-Research/NRS-Framework/issues。
+•   Report Bugs: Found an error in data or code? Open an https://github.com/NRS-Research/NRS-Framework/issues with the bug label. / 报告错误：发现数据或代码错误？请使用 bug 标签开启一个https://github.com/NRS-Research/NRS-Framework/issues
 
 How to Cite / 引用说明
 
