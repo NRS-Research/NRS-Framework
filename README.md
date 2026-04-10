@@ -32,16 +32,6 @@ This repository contains all the necessary components to audit, replicate, exten
 
     ◦   03_visualization/: Scripts to reproduce the book's key figures (e.g., US-China W trend comparison). / 复现书中关键图形（如中美W趋势对比）的脚本。
 
-•   /docs/: Detailed methodology and guidance. / 详细的方法论和指南。
-
-    ◦   methodology.md: A comprehensive, step-by-step guide expanding on the book's Appendix 1. / 对书籍附录一的详细分步指南。
-
-    ◦   api_reference.md: Documentation for the core calculation functions. / 核心计算函数的API参考文档。
-
-•   /examples/: Tutorials to get started quickly. / 快速入门教程。
-
-    ◦   quick_start.ipynb: A Jupyter Notebook that guides you from setup to your first chart in minutes. / 一个Jupyter Notebook，指导您在几分钟内完成从环境设置到生成第一个图表。
-
 Quick Start: Reproduce a Key Chart in 5 Minutes / 快速开始：5分钟复现核心图表
 
 Follow these steps to generate the central "US-China Resilience Surplus (W) Trend Comparison" chart from the book.
