@@ -75,6 +75,8 @@ How to Cite / 引用说明
 To cite the book (the primary source): / 引用本书（主要来源）：
 谢锋. (2026). The War of Guardians: Wealth, Power, and the Future of Nations. Publisher.
 
+谢锋Personal Homepage: https://FengX-NRS.github.io
+
 To cite this software/code repository: / 引用本软件/代码仓库：
 NRS-Research. (2026). NRS-Framework (Version 1.0.0) [Computer software]. https://github.com/NRS-Research/NRS-Framework
 
